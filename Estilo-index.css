@@ -29,7 +29,7 @@ img
 
 .header
 {
-    background-image: url(img/Portada\ 5.jpg);
+    background-image: url(img/Portada\ 1.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -59,10 +59,10 @@ img
 
 .menu .navbar ul li a
 {
-    font-size: 20px;
+    font-size: 23px;
     padding: 20px;
     color: #0511f2;
-    font-weight: 600;
+    font-weight: 60;
     display: block;
     transition: all .2s ease;
 }
