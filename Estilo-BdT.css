@@ -58,7 +58,7 @@ img
 
 .menu .navbar ul li a
 {
-    font-size: 20px;
+    font-size: 23px;
     padding: 20px;
     color: #051df3;
     font-weight: 600;
@@ -142,23 +142,25 @@ img
 /*Codigo para el parrafo*/
 .popular
 {
-    padding: 50px 0;
+    text-align: center;
+    padding: 50px 50px;
 }
 
 .popular h1
 {
-    font-size: 35px;
+    font-size: 40px;
     margin-bottom: 40px;
 }
 
 .popular p
 {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /*Codigo para footer*/
 .footer
 {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;

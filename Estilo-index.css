@@ -144,39 +144,43 @@ img
 
 .popular
 {
-    padding: 50px 0;
+    padding: 50px 50px;
 }
 
 .popular h1
 {
-    font-size: 35px;
-    margin-bottom: 40px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 45px;
 }
 
 .popular p
 {
-    font-size: 15px;
+    text-align: center;
+    font-size: 20px;
 }
 
 .parrafo
 {
-    padding: 50px 0;
+    padding: 50px 50px;
 }
 
 .parrafo h1
 {
-    font-size: 35px;
+    text-align: center;
+    font-size: 40px;
 }
 
 .parrafo p
 {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /*Codigo para footer*/
 
 .footer
 {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;

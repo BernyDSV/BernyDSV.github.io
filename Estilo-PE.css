@@ -58,7 +58,7 @@ img
 
 .menu .navbar ul li a
 {
-    font-size: 20px;
+    font-size: 23px;
     padding: 20px;
     color: #1202f5;
     font-weight: 600;
@@ -142,18 +142,19 @@ img
 /*Codigo para el parrafo*/
 .popular
 {
-    padding: 50px 0;
+    padding: 50px 50px;
 }
 
 .popular h1
 {
-    font-size: 35px;
+    text-align: center;
+    font-size: 40px;
     margin-bottom: 40px;
 }
 
 .popular p
 {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .producto
@@ -163,11 +164,13 @@ img
 
 .producto h2
 {
+    font-size: 20px;
     font-size: 15px;
 }
 
 .producto h3
 {
+    font-size: 20px;
     font-size: 15px;
 }
 
@@ -175,6 +178,7 @@ img
 
 .footer
 {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;

@@ -58,7 +58,7 @@ img
 
 .menu .navbar ul li a
 {
-    font-size: 20px;
+    font-size: 23px;
     padding: 20px;
     color: #1004f4;
     font-weight: 600;
@@ -143,21 +143,23 @@ img
 
 .popular
 {
-    padding: 50px 0;
+    padding: 50px 50px;
 }
 
 .popular h1
 {
-    font-size: 35px;
+    text-align: center;
+    font-size: 40px;
     margin-bottom: 40px;
 }
 
 .popular p
 {
-    font-size: 15px;
+    font-size: 20px;
 }
 .producto
-{
+{   
+    font-size: 20px;
     padding: 30px 200px;
 }
 
@@ -165,6 +167,7 @@ img
 
 .footer
 {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
