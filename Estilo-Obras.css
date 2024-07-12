@@ -35,8 +35,8 @@ img
     background-size: cover;
     display: flex;
     align-items: center;
-    align-items: 200vh;
-    padding: 200px 0;
+    min-height: 50vh;
+    padding: 50px 0;
 }
 
 .menu
@@ -48,6 +48,8 @@ img
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background-color: #0c0c0c;
+    max-width: 2000px;
 }
 
 /*Codigo menu general*/
@@ -59,9 +61,9 @@ img
 
 .menu .navbar ul li a
 {
-    font-size: 23px;
+    font-size: 21px;
     padding: 20px;
-    color: #1306f9;
+    color: #f2f1f6;
     font-weight: 600;
     display: block;
     transition: all .2s ease;
@@ -77,7 +79,7 @@ img
     position: absolute;
     right: 0;
     width: 300px;
-    background-color: #edf9f3;
+    background-color: #060606;
     display: none;
 }
 
@@ -155,22 +157,26 @@ img
 
 .producto
 {
-    padding: 30px 500px;
+    text-align: center;
+    padding: 30px 0px;
 }
 
 .segundo
 {
-    padding: 30px 500px;
+    text-align: center;
+    padding: 30px 0px;
 }
 
 .tercero
 {
-    padding: 30px 500px;
+    text-align: center;
+    padding: 30px 0px;
 }
 
 .cuarto
 {
-    padding: 30px 650px;
+    text-align: center;
+    padding: 30px 0px;
 }
 
 /*Codigo para footer*/
@@ -201,13 +207,13 @@ img
         top: 100%;
         left: 0;
         right: 0;
-        background-color: #c9d9db;
+        background-color: #070707;
         display: none;
     }
 
     .menu .navbar ul li a:hover
     {
-        color: #1b1726;
+        color: #f97203;
     }
 
     .menu .navbar ul li
@@ -224,7 +230,7 @@ img
 
     .menu .navbar ul li ul li 
     {
-        background-color: antiquewhite;
+        background-color: rgb(47, 46, 46);
     }
 
     .menu .navbar ul li ul li ul
@@ -242,7 +248,7 @@ img
     .header
     {
         min-height: 0vh;
-        padding: 80px 30px 50px 30px;
+        padding: 300px 30px 50px 30px;
     }
 
     .header-txt
