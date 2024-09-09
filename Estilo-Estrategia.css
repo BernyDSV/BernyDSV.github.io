@@ -157,7 +157,7 @@ img
 
 .producto
 {
-    padding: 50px 350px;
+    padding: 50px 1200px;
 }
 
 .producto h2
@@ -169,6 +169,7 @@ img
 
 .producto p
 {
+    text-align: center;
     font-size: 20px;
 }
 

@@ -139,6 +139,7 @@ img
 
 .header-txt p
 {
+    text-align: center;
     font-size: 25px;
 }
 
@@ -175,6 +176,7 @@ img
 
 .parrafo p
 {
+    text-align: center;
     font-size: 20px;
 }
 
