@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
 
 *
 {
@@ -11,7 +11,7 @@
 
 body
 {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: 'Bona Nova SC', sans-serif;
     background-color: #f7f6f9;
 }
 
@@ -47,7 +47,7 @@ img
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #0c0c0c;
+    background-color: #465c8c;
     max-width: 2000px;
 }
 
