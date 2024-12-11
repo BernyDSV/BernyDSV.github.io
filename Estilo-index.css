@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
 *
 {
@@ -11,7 +11,7 @@
 
 body
 {
-    font-family: 'Bona Nova SC', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     background-color: #fbfbfb;
 
 }
@@ -124,8 +124,8 @@ img
 
 .header-content
 {
-    background-color: #cececf;
-    display: flex;
+    box-shadow: -15px 17px 17px rgba(10, 10, 10, 0.25);
+    background: rgba(255, 255, 255, 0.1);
 }
 
 .header-txt 
@@ -253,7 +253,7 @@ img
     .header
     {
         min-height: 0vh;
-        padding: 80px 30px 50px 30px;
+        padding: 100px 30px 50px 30px;
     }
 
     .header-txt
